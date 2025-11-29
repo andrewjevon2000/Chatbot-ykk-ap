@@ -1,0 +1,5 @@
+{
+  "name": "YKK Sinar Fortuna Bot",
+  "description": "An intelligent inbound leads chatbot for YKK Sinar Fortuna, capable of answering product and company queries using the Gemini API with Search Grounding.",
+  "requestFramePermissions": []
+}
